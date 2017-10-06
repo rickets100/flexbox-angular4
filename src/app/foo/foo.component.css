@@ -1,0 +1,9 @@
+div {
+  height:100%;
+  background: crimson;
+}
+
+.short-and-wide {
+  height: 40px;
+  width: 90px;
+}
